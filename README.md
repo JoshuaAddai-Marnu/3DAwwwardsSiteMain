@@ -4,11 +4,6 @@
 
 All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** 
 
-
-
-
-<a href="https://youtu.be/zA9r5zTllx4" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
 ## <a name="introduction">🤖 Introduction</a>
 
 Build a visually captivating website inspired by **[Zentry](https://zentry.com/)**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner.
@@ -67,10 +62,7 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
 
-<details>
-<summary><code>index.css</code></summary>
 
 ```css
 @import url("https://fonts.cdnfonts.com/css/general-sans");
